@@ -35,12 +35,14 @@ namespace CV
             {
                 string okres = "2007-";
                 string nazwa = "Zawodowa Specjalistyczna Rodzina Zastępcza - Siedlce";
+                string[] opis = new string[2];
+                opis[1] = "Rodziną zawodową jestem od roku 2001. W doku 2007 Powat Siedlecki podpisał z nami umowę na pełnienie funkcji Zawodowej Specjalistycznej Rodziny Zastępczej. Obiecnie pod naszą opieką jest trójka dzieci z orzeczoną niepełnosprawnością.";
             }
             if (lp == 2)
             {
                 string okres = "1998-";
                 string nazwa = "SEDKOMP Spółka Jawna Sawicki, Sikora - Siedlce";
-                string stanowisko = "informatyk - specjalista d/s kadr i płac";
+                string stanowisko = "informatyk programista - specjalista d/s kadr i płac";
                 string[] opis = new string[3];
                 opis[1] = "Dzięki mojemu doświadczeniu i dobrej znajomości przepisów kadrowo-płacowych brałem czynny udział w pracach wdrożeniowych systemów kadrowo-płacowych w takich firmach jak: ZUS Szczecin, ZUS Olsztyn, ZUS Białystok, ZUS Siedlce, ZUS Jasło, ZUS Ostrołęka, ZUS Wałbrzych, ZUS Radzyń Podlaski, Baumann Mostostal, Zentis Polska, Telefony Podlaskie, Starostwo Powiatowe w Łukowie, WIWet Siedlce, ASAJ, ELMO, WSA (Wojewódzki Sąd Administracyjny w Warszawie) i wiele, wiele innych... ";
                 opis[2] = "Czynny udział w pracach programistycznych (Delphi, C#) przy wdrożenieniu systemu Comarch CDN XL w hurtowni ASAJ (2005-2006) – największe wdrożenie firmy SEDKOMP.";
@@ -61,7 +63,7 @@ namespace CV
             {
                 string okres = "2013-";
                 string nazwa = "Wielka Orkiestra Świątecznej Pomocy";
-                string stanowisko = "Służba Informacyjna - Wolontariat Pokojowy Patrol – Przystanek Woodstock 2013";
+                string stanowisko = "Służba Informacyjna - Wolontariat Pokojowy Patrol – Przystanek Woodstock 2013-2015";
             }
 
         }
