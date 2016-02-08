@@ -36,7 +36,7 @@ namespace CV
                 string okres = "2007-";
                 string nazwa = "Zawodowa Specjalistyczna Rodzina Zastępcza - Siedlce";
                 string[] opis = new string[2];
-                opis[1] = "Rodziną zawodową jestem od roku 2001. W doku 2007 Powat Siedlecki podpisał z nami umowę na pełnienie funkcji Zawodowej Specjalistycznej Rodziny Zastępczej. Obiecnie pod naszą opieką jest trójka dzieci z orzeczoną niepełnosprawnością.";
+                opis[1] = "Rodziną zawodową jestem od roku 2001. W doku 2007 Powiat Siedlecki podpisał z nami umowę na pełnienie funkcji Zawodowej Specjalistycznej Rodziny Zastępczej. Obiecnie pod naszą opieką jest trójka dzieci z orzeczoną niepełnosprawnością.";
             }
             if (lp == 2)
             {
@@ -64,6 +64,13 @@ namespace CV
                 string okres = "2013-";
                 string nazwa = "Wielka Orkiestra Świątecznej Pomocy";
                 string stanowisko = "Służba Informacyjna - Wolontariat Pokojowy Patrol – Przystanek Woodstock 2013-2015";
+            }
+            if (lp == 6)
+            {
+                string okres = "2015-";
+                string nazwa = "Planszówki w Siedlcach";
+                string stanowisko = "Organizator";
+                string opis = "Cykliczny cykl spotkań mających jeden cel: granie w gry planszowe";
             }
 
         }
@@ -102,7 +109,7 @@ namespace CV
         /// </summary>
         void Inne_kwalifikacje()
         {
-            string[] kwalifikacja = new string[11];
+            string[] kwalifikacja = new string[14];
             kwalifikacja[1] = "Znajomość języka angielskiego w stopniu podstawowym";
             kwalifikacja[2] = "Prawo jazdy kategorii AB";
             kwalifikacja[3] = "Znajomość systemów operacyjnych MS Windows";
@@ -110,11 +117,12 @@ namespace CV
             kwalifikacja[5] = "Znajomość języków programowania: Delphi, C#";
             kwalifikacja[6] = "Znajomość baz danych MSSQL, MySQL";
             kwalifikacja[7] = "Dobra znajomość przepisów płacowo-kadrowych";
-            kwalifikacja[8] = "Znajomość oprogramowania firmy Comarch-CDN: Klasyka, Optima, XL";
+            kwalifikacja[8] = "Znajomość oprogramowania firmy Comarch CDN: Klasyka, Optima, XL";
             kwalifikacja[9] = "Znajomość oprogramowania ZUS Płatnik";
             kwalifikacja[10] = "Członek stowarzyszenia Mensa Polska";
-            kwalifikacja[11] = "Służba Informacyjna";
+            kwalifikacja[11] = "Służba Informacyjna - tzw. masówka";
             kwalifikacja[12] = "Znajomość oprogramowania firmy Soneta: Enova Płace i Kadry";
+            kwalifikacja[13] = "Świadectwo klasy C operatora urządzeń radiowych w służbie radiokomunikacyjnej amatorskiej";
 
 
         }
