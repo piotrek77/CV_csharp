@@ -115,7 +115,7 @@ namespace CV
             kwalifikacja[2] = "Prawo jazdy kategorii AB";
             kwalifikacja[3] = "Znajomość systemów operacyjnych MS Windows";
             kwalifikacja[4] = "Dobra znajomość pakietów biurowych MS Office, Open Office";
-            kwalifikacja[5] = "Znajomość języków programowania: Delphi, C++, Python, C#";
+            kwalifikacja[5] = "Znajomość języków programowania: C#, Delphi, C++, Python";
             kwalifikacja[6] = "Znajomość baz danych MSSQL, MySQL, SQLite";
             kwalifikacja[7] = "Dobra znajomość przepisów płacowo-kadrowych";
             kwalifikacja[8] = "Znajomość oprogramowania firmy Comarch CDN: Klasyka, Optima, XL";
@@ -124,6 +124,7 @@ namespace CV
             kwalifikacja[11] = "Służba Informacyjna - tzw. masówka";
             kwalifikacja[12] = "Znajomość oprogramowania firmy Soneta: Enova Płace i Kadry";
             kwalifikacja[13] = "Świadectwo klasy C operatora urządzeń radiowych w służbie radiokomunikacyjnej amatorskiej";
+            kwalifikacja[14] = "Znajomość GIT";
 
 
         }
