@@ -42,10 +42,11 @@ namespace CV
             {
                 string okres = "1998-";
                 string nazwa = "SEDKOMP Spółka Jawna Sawicki, Sikora - Siedlce";
-                string stanowisko = "informatyk programista - specjalista d/s kadr i płac";
+                string stanowisko = "specjalista d/s systemów MSP";
                 string[] opis = new string[3];
-                opis[1] = "Dzięki mojemu doświadczeniu i dobrej znajomości przepisów kadrowo-płacowych brałem czynny udział w pracach wdrożeniowych systemów kadrowo-płacowych w takich firmach jak: ZUS Szczecin, ZUS Olsztyn, ZUS Białystok, ZUS Siedlce, ZUS Jasło, ZUS Ostrołęka, ZUS Wałbrzych, ZUS Radzyń Podlaski, Baumann Mostostal, Zentis Polska, Telefony Podlaskie, Starostwo Powiatowe w Łukowie, WIWet Siedlce, ASAJ, ELMO, WSA (Wojewódzki Sąd Administracyjny w Warszawie) i wiele, wiele innych... ";
+                opis[1] = "1998- Wdrożenia systemów kadrowo-płacowych CDN PIK w firmach i instytucjach: ZUS Szczecin, ZUS Olsztyn, ZUS Białystok, ZUS Siedlce, ZUS Jasło, ZUS Ostrołęka, ZUS Wałbrzych, ZUS Radzyń Podlaski, Baumann Mostostal, Zentis Polska, Telefony Podlaskie, Starostwo Powiatowe w Łukowie, WIWet Siedlce, ASAJ, ELMO, WSA (Wojewódzki Sąd Administracyjny w Warszawie) i wiele, wiele innych... ";
                 opis[2] = "Czynny udział w pracach programistycznych (Delphi, C#) przy wdrożenieniu systemu Comarch CDN XL w hurtowni ASAJ (2005-2006) – największe wdrożenie firmy SEDKOMP.";
+                opis[3] = "Prace programistyczne, dopisywanie funkcjonalności do istniejących programów (Comarch ERP XL), pisanie własnych autorskich rozwiązań.";
             }
             if (lp == 3)
             {
@@ -110,12 +111,12 @@ namespace CV
         void Inne_kwalifikacje()
         {
             string[] kwalifikacja = new string[14];
-            kwalifikacja[1] = "Znajomość języka angielskiego w stopniu podstawowym";
+            kwalifikacja[1] = "Znajomość języka angielskiego w stopniu podstawowym (czytanie)";
             kwalifikacja[2] = "Prawo jazdy kategorii AB";
             kwalifikacja[3] = "Znajomość systemów operacyjnych MS Windows";
             kwalifikacja[4] = "Dobra znajomość pakietów biurowych MS Office, Open Office";
-            kwalifikacja[5] = "Znajomość języków programowania: Delphi, C#";
-            kwalifikacja[6] = "Znajomość baz danych MSSQL, MySQL";
+            kwalifikacja[5] = "Znajomość języków programowania: Delphi, C++, Python, C#";
+            kwalifikacja[6] = "Znajomość baz danych MSSQL, MySQL, SQLite";
             kwalifikacja[7] = "Dobra znajomość przepisów płacowo-kadrowych";
             kwalifikacja[8] = "Znajomość oprogramowania firmy Comarch CDN: Klasyka, Optima, XL";
             kwalifikacja[9] = "Znajomość oprogramowania ZUS Płatnik";
