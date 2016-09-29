@@ -45,8 +45,9 @@ namespace CV
                 string stanowisko = "specjalista d/s systemów MSP";
                 string[] opis = new string[3];
                 opis[1] = "1998- Wdrożenia systemów kadrowo-płacowych CDN PIK w firmach i instytucjach: ZUS Szczecin, ZUS Olsztyn, ZUS Białystok, ZUS Siedlce, ZUS Jasło, ZUS Ostrołęka, ZUS Wałbrzych, ZUS Radzyń Podlaski, Baumann Mostostal, Zentis Polska, Telefony Podlaskie, Starostwo Powiatowe w Łukowie, WIWet Siedlce, ASAJ, ELMO, WSA (Wojewódzki Sąd Administracyjny w Warszawie) i wiele, wiele innych... ";
-                opis[2] = "Czynny udział w pracach programistycznych (Delphi, C#) przy wdrożenieniu systemu Comarch CDN XL w hurtowni ASAJ (2005-2006) – największe wdrożenie firmy SEDKOMP.";
-                opis[3] = "Prace programistyczne, dopisywanie funkcjonalności do istniejących programów (Comarch ERP XL), pisanie własnych autorskich rozwiązań.";
+                opis[2] = "2005-2006 Prace programistyczne (Delphi, C#) przy wdrożenieniu systemu Comarch CDN XL w hurtowni ASAJ.";
+                opis[3] = "1998- Prace programistyczne (C#, Python, Delphi), dopisywanie funkcjonalności do istniejących programów (Comarch ERP XL), pisanie własnych autorskich rozwiązań.";
+                opis[4] = "1998- Prowadzenie szkoleń (Obsługa komputera, Obsługa programów MSP)";
             }
             if (lp == 3)
             {
